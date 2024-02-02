@@ -13,8 +13,6 @@ This web application displays product listings with dynamic category filtering. 
 ## Usage
 
 1. Clone the repository.
-   git clone https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git
-   
 3. Open the `index.html` file in a web browser.
 4. Explore different product categories by clicking on the provided tabs.
 5. View product details, prices, and discounts.
