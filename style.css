@@ -151,12 +151,14 @@ body {
 @media (max-width:1536px) {
   .container {
     max-width: 1366px;
+    background:red;
   }
 }
 
 @media (max-width:1280px) {
   .container {
     max-width: 1024px;
+    background:green;
   }
 }
 
@@ -164,6 +166,7 @@ body {
   .container {
     max-width: 968px;
     padding-left: 40px;
+    background:yellow;
     padding-right: 40px;
   }
   .button{
@@ -174,11 +177,13 @@ body {
 @media (max-width:768px) {
   .container {
     max-width: 640px;
+    background:pink;
   }
 }
 
 @media screen and(max-width:640px) {
   .container {
     max-width: 475px;
+    background:gray;
   }
 }
