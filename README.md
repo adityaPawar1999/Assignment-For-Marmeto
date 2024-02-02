@@ -1,5 +1,6 @@
 
 # Product Showcase Web App
+Link : https://sensational-rolypoly-49922b.netlify.app/
 
 This web application displays product listings with dynamic category filtering. It fetches data from a Shopify API using JavaScript, rendering product cards with images, titles, prices, and discount information. The app includes functions to calculate and display discounts.
 
